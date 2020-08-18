@@ -1,16 +1,37 @@
-### Hi there 👋
+### 👋 Hi there, I'm Cleyton!  
+<a target="_blank" href="https://www.linkedin.com/in/cleytonwlsn/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/cleytonwlsn/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:cleytonwilsonlima@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/cley.wilson/">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a target="_blank" href="https://www.twitter.com/cleytonwlsn/">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-<!--
-**cleytonwlsn/cleytonwlsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+I'm a Developer from Macapá - Amapá - Brazil, 25 years old. **I'm a bachelor in forest engineering 🎓**.
+I'm a musician (guitarist) and I'm learning to play the keyboard 🎸. I like games, books and anime.
+**Learning any technology that is within my reach 🌱**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+<h3> 🛠 Languages and Tools: </h3>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
+[![Cleyton Wilson GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleytonwlsn&show_icons=true)](https://github.com/cleytonwlsn)
+
+
+⭐️ From [cleytonwlsn](https://github.com/cleytonwlsn)
