@@ -18,7 +18,7 @@
 ----
 <h3> 👨🏻‍💻 About Me </h3>
 
-I'm a Developer from Macapá - Amapá - Brazil, 25 years old. **I'm a bachelor in forest engineering 🎓**.
+I'm a Software Engineer from Macapá - Amapá - Brazil, 25 years old. **I'm a bachelor in forest engineering 🎓**.
 I'm a musician (guitarist) and I'm learning to play the keyboard 🎸. I like games, books and anime.
 **Learning any technology that is within my reach 🌱**. 
 
@@ -31,6 +31,8 @@ I'm a musician (guitarist) and I'm learning to play the keyboard 🎸. I like ga
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/native/native.png"></code>
 
 
 [![Cleyton Wilson GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleytonwlsn&show_icons=true)](https://github.com/cleytonwlsn)
