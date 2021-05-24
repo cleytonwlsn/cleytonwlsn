@@ -19,7 +19,7 @@
 <h4> 👨🏻‍💻 About Me </h4>
 
 I'm a Software Engineer from Macapá - Amapá - Brazil, 25 years old. **I'm a bachelor in forest engineering 🎓**.
-I'm a musician (guitarist) and I'm learning to play the keyboard 🎸. I like games, books and anime.
+I'm a musician (guitarist) and I'm learning to play the keyboard piano. I like games, books and anime.
 **Learning any technology that is within my reach 🌱**. 
 
 ----
