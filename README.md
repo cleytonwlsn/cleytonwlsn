@@ -20,7 +20,6 @@
 
 I'm a Software Engineer from Macapá - Amapá - Brazil, 25 years old. **I'm a bachelor in forest engineering 🎓**.
 I'm a musician (guitarist). I like games, books and anime.
-**Learning any technology that is within my reach 🌱**. 
 
 ----
 <h4> 🛠 Languages and technologies: </h4>
