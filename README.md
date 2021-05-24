@@ -30,5 +30,6 @@ I'm a musician (guitarist) and I'm learning to play the keyboard 🎸. I like ga
 
 <img align="left" width="495px" src="https://github-readme-stats.vercel.app/api?username=cleytonwlsn&count_private=true&theme=gotham">
 <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn&theme=gotham&layout=compact">
+<br>
 
-<footer>⭐️ From [cleytonwlsn](https://github.com/cleytonwlsn)</footer>
+⭐️ From [cleytonwlsn](https://github.com/cleytonwlsn)
