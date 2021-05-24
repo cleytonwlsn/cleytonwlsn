@@ -24,10 +24,11 @@ I'm a musician (guitarist) and I'm learning to play the keyboard 🎸. I like ga
 
 ----
 <h4> 🛠 Languages and technologies: </h4>
-<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
-<code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black"></code>
-<code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black"></code>
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black">
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black">
+<br>
+  
 <img width="495px" src="https://github-readme-stats.vercel.app/api?username=cleytonwlsn&count_private=true&theme=gotham"> <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn&theme=gotham&layout=compact">
 
 
