@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Cleyton!  
+### 👋 Hi there! 
 <a target="_blank" href="https://www.linkedin.com/in/cleytonwlsn/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,20 +16,20 @@
 </a>
 
 ----
-<h3> 👨🏻‍💻 About Me </h3>
+<h2> 👨🏻‍💻 About Me </h2>
 
 I'm a Software Engineer from Macapá - Amapá - Brazil, 25 years old. **I'm a bachelor in forest engineering 🎓**.
 I'm a musician (guitarist) and I'm learning to play the keyboard 🎸. I like games, books and anime.
 **Learning any technology that is within my reach 🌱**. 
 
 ----
-<h3> 🛠 Languages and Tools: </h3>
+<h2> 🛠 Languages: </h2>
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-![Cleyton's github stats](https://github-readme-stats.vercel.app/api?username=cleytonwlsn&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn)
+![Cleyton's github stats](https://github-readme-stats.vercel.app/api?username=cleytonwlsn&count_private=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn&theme=great-gatsby)
 
 ⭐️ From [cleytonwlsn](https://github.com/cleytonwlsn)
