@@ -16,13 +16,12 @@
 </a>
 <br>
 
-<h4> 👨🏻‍💻 About Me </h4>
+<h4> 👨🏻‍💻 Sobre mim </h4>
 
-I'm a Software Engineer from Macapá - Amapá - Brazil, 25 years old. **I'm a bachelor in forest engineering 🎓**.
-I'm a musician (guitarist). I like games, books and anime.
+Olá, me chamo Cleyton e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação, principalmente Front End. 
 
 ----
-<h4> 🛠 Languages and technologies: </h4>
+<h4> 🛠 Linguagens e Tecnologias: </h4>
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black"></code>
 <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black"></code>
