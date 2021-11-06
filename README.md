@@ -22,6 +22,8 @@ Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnol
 
 ----
 <h4> 🛠 Linguagens e Tecnologias: </h4>
+<code><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black"></code>
+<code><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=black"></code>
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black"></code>
 <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black"></code>
