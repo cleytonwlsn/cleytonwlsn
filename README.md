@@ -27,7 +27,6 @@ Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnol
 <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black"></code>
 <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black"></code>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn)
 <br>
 <br>
 ⭐️ From <a href="https://github.com/cleytonwlsn">cleytonwlsn</a>
