@@ -20,6 +20,7 @@
 
 Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação mobile. 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn)
 ----
 <h3> 🛠 Principais linguagens e tecnologias: </h3>
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black"></code>
