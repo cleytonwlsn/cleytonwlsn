@@ -18,7 +18,7 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação mobile. 
+Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação web. 
 
 ----
 <h3> 🛠 Principais linguagens e tecnologias: </h3>
