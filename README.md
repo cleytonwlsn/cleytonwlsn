@@ -18,14 +18,11 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação web. 
+Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação. 
 
 ----
 <h3> 🛠 Principais linguagens e tecnologias: </h3>
 <section>
-  <!--<code><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=black"></code>
-  <code><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=black"></code>
-  <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></code>-->
   <code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
   <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black"></code>
   <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black"></code>
