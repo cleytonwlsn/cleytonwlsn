@@ -30,11 +30,11 @@ Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnol
 <br>
 <section>
   <img
-     height="180rem"
+     height="150rem"
      src='https://github-readme-stats.vercel.app/api?username=cleytonwlsn&show_icons=true&count_private=true&include_all_commits=true&theme=dark'
   />
   <img
-     height="180rem"
+     height="150rem"
      src='https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn&layout=compact&langs_count=16&theme=dark'
    />
 </section>
