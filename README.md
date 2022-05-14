@@ -23,7 +23,7 @@ Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnol
 ----
 <h3> 🛠 Principais linguagens e tecnologias: </h3>
 <section>
-  <code><img src=" <code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>"></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg"></code>
   <code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
   <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black"></code>
   <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black"></code>
