@@ -19,15 +19,6 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação. 
-
-----
-<h3> 🛠 Principais linguagens e tecnologias: </h3>
-<section>
-  <code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
-  <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black"></code>
-  <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black"></code>
- </section>
-<br>
 <section>
   <img
      height="150rem"
@@ -38,6 +29,15 @@ Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnol
      src='https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn&layout=compact&langs_count=16&theme=dark'
    />
 </section>
+----
+<h3> 🛠 Principais linguagens e tecnologias: </h3>
+<section>
+  <code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
+  <code><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black"></code>
+  <code><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black"></code>
+ </section>
+<br>
+
 
 
 ⭐️ From <a href="https://github.com/cleytonwlsn">cleytonwlsn</a>
