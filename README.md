@@ -19,8 +19,8 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 <p>Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação.</p>
 ----
-<h3> 🛠 Principais linguagens e tecnologias: </h3>
-<section style="display: inline_block">
+<h3 align="center"> 🛠 Principais linguagens e tecnologias: </h3>
+<section align="center" style="display: inline_block">
   <img align="center" alt="Cley-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Cley-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Cley-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
