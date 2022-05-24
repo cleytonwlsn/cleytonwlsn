@@ -1,4 +1,5 @@
 ### 👋 E aí, tudo certo?
+<section align="center">
 <a target="_blank" href="https://www.linkedin.com/in/cleytonwlsn/">
   <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
@@ -14,11 +15,12 @@
 <a target="_blank" href="https://www.twitter.com/cleytonwlsn/">
   <img align="left" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black" />
 </a>
+</section>
 <br>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 <p>Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação.</p>
-----
+<p align="center">----</p>
 <h3 align="center"> 🛠 Principais linguagens e tecnologias: </h3>
 <section align="center" style="display: inline_block">
   <img align="center" alt="Cley-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -29,7 +31,7 @@
   <img align="center" alt="Cley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </section>
 <br>
-<section>
+<section align="center">
   <img
      height="150rem"
      src='https://github-readme-stats.vercel.app/api?username=cleytonwlsn&show_icons=true&count_private=true&include_all_commits=true&theme=dark'
