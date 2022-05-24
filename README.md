@@ -3,7 +3,7 @@
   <img align="center" alt="LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 <a target="_blank" href="https://www.instagram.com/cleytonwlsn/">
-  <img align="left" alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=black" />
+  <img align="center" alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=black" />
 </a>
 <a target="_blank" href="mailto:cleytonwilsonlima@gmail.com">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=black" />
