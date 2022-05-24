@@ -1,4 +1,5 @@
 ### 👋 E aí, tudo certo?
+<section align="center">
 <a target="_blank" href="https://www.linkedin.com/in/cleytonwlsn/">
   <img align="center" alt="LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
@@ -14,6 +15,7 @@
 <a target="_blank" href="https://www.twitter.com/cleytonwlsn/">
   <img align="center" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black" />
 </a>
+</section>
 <br>
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
