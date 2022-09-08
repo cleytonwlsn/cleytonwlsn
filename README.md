@@ -23,7 +23,7 @@
 <p align="center">----</p>
 <h3 align="center"> 🛠 Principais linguagens e tecnologias: </h3>
 <section align="center" style="display: inline_block">
-  <img align="center" alt="Cley-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg">
+  <img align="center" alt="Cley-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/net/net-original.svg">
   <img align="center" alt="Cley-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </section>
 <br>
