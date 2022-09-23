@@ -23,9 +23,8 @@
 <p align="center">----</p>
 <h3 align="center"> 🛠 Principais linguagens e tecnologias: </h3>
 <section align="center" style="display: inline_block">
-  <img align="center" alt="Cley-dotnet" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="Cley-csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt="Cley-csharp" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="Cley-java" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="Cley-spring" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
  </section>
 <br>
 <section align="center">
