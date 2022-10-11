@@ -9,12 +9,6 @@
 <a target="_blank" href="mailto:cleytonwilsonlima@gmail.com">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
-<a target="_blank" href="https://www.facebook.com/cley.wilson/">
-  <img align="center" alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=black" />
-</a>
-<a target="_blank" href="https://www.twitter.com/cleytonwlsn/">
-  <img align="center" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black" />
-</a>
 </section>
 <br>
 
