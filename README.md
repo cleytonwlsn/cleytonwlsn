@@ -17,9 +17,9 @@
 <p align="center">----</p>
 <h3 align="center"> 🛠 Principais linguagens e tecnologias: </h3>
 <section align="center" style="display: inline_block">
-  <img align="center" alt="Cley-nest" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nestjs.svg">
-  <img align="center" alt="Cley-ts" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Typescript.svg">
-  <img align="center" alt="Cley-node" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Node.svg">
+  <img align="center" alt="Cley-nest" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg">
+  <img align="center" alt="Cley-ts" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  <img align="center" alt="Cley-node" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img align="center" alt="Cley-svelte" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg">
   <img align="center" alt="Cley-js" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Cley-html" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
