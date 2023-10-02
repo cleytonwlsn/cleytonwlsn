@@ -1,4 +1,4 @@
-<div align="center">### 👋 E aí, tudo certo?</div>
+<h2 align="center">### 👋 E aí, tudo certo?</h2>
 <section align="center">
 <a target="_blank" href="https://www.linkedin.com/in/cleytonwlsn/">
   <img align="center" alt="LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
