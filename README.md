@@ -1,4 +1,4 @@
-### 👋 E aí, tudo certo?
+<div align="center">### 👋 E aí, tudo certo?</div>
 <section align="center">
 <a target="_blank" href="https://www.linkedin.com/in/cleytonwlsn/">
   <img align="center" alt="LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
@@ -12,7 +12,7 @@
 </section>
 <br>
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
+<h3 align="center"> 👨🏻‍💻 Sobre mim </h3>
 <p>Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação.</p>
 <p align="center">----</p>
 <h3 align="center"> 🛠 Principais linguagens e tecnologias: </h3>
