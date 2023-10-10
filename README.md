@@ -18,6 +18,7 @@
 <h3 align="center"> 🛠 Principais linguagens e tecnologias: </h3>
 <section align="center" style="display: inline_block">
   <img align="center" alt="Cley-kotlin" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg">
+  <img align="center" alt="Cley-android" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
  </section>
 <br>
 <h4 align="center"> 🛠 Conhecimentos complementares: </h4>
