@@ -16,9 +16,9 @@
 <p>Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação.</p>
 <p align="center">----</p>
 <h3 align="center"> 🛠 Principais linguagens e tecnologias: </h3>
-<section style="display: flex">
-  <img justfy-content="center" alt="Cley-kotlin" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg">
-  <img justfy-content="center" alt="Cley-android" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
+<section>
+  <img align="center" alt="Cley-kotlin" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg">
+  <img align="center" alt="Cley-android" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
  </section>
 <h4 align="center"> 🛠 Conhecimentos complementares: </h4>
 <section align="center" style="display: inline_block">
