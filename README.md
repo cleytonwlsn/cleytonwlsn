@@ -1,5 +1,5 @@
 <h2 align="center">👋 E aí, tudo certo?</h2>
-<section align="center">
+<div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/cleytonwlsn/">
   <img align="center" alt="LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
@@ -9,25 +9,25 @@
 <a target="_blank" href="mailto:cleytonwilsonlima@gmail.com">
   <img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
-</section>
+</div>
 <br>
 
 <h3 align="center"> 👨🏻‍💻 Sobre mim </h3>
 <p>Olá, me chamo Cleyton, moro em Macapá-AP e sou um estudante da área de tecnologia e programação. Sou formado em Engenharia Florestal (em 2018) e tenho bastante interesse na área de programação.</p>
 <p align="center">----</p>
 <h3 align="center"> 🛠 Principais linguagens e tecnologias: </h3>
-<section align="center" style="display: inline_block">
+<div align="center" style="display: inline_block">
   <img  align="center" alt="Cley-kotlin" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg">
   <img  align="center" alt="Cley-android" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
- </section>
+ </div>
 <h4 align="center"> 🛠 Conhecimentos complementares: </h4>
-<section align="center" style="display: inline_block">
+<div align="center" style="display: inline_block">
   <img align="center" alt="Cley-js" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Cley-html" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Cley-css" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
- </section>
+ </div>
 <br>
-<section align="center">
+<div align="center">
   <img
      height="150rem"
      src='https://github-readme-stats.vercel.app/api?username=cleytonwlsn&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark'
@@ -36,7 +36,7 @@
      height="150rem"
      src='https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn&layout=compact&langs_count=16&theme=github_dark'
    />
-</section>
+</div>
 
 
 ⭐️ From <a href="https://github.com/cleytonwlsn">cleytonwlsn</a>
