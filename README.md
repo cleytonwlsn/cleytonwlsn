@@ -25,7 +25,7 @@
 <div align="center">
   <img
      height="150rem"
-     src='https://github-readme-stats.vercel.app/api?username=cleytonwlsn&count_private=true'
+     src='https://github-readme-stats.vercel.app/api?username=cleytonwlsn&count_private=true&theme=github_dark'
    />
   <img
      height="150rem"
