@@ -23,7 +23,10 @@
  </div>
 <br>
 <div align="center">
-  ![Cleyton's github stats](https://github-readme-stats.vercel.app/api?username=cleytonwlsn&count_private=true)
+  <img
+     height="150rem"
+     src='https://github-readme-stats.vercel.app/api?username=cleytonwlsn&count_private=true'
+   />
   <img
      height="150rem"
      src='https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn&layout=compact&langs_count=16&theme=github_dark'
