@@ -23,7 +23,7 @@
   <img align="center" alt="Cley-css" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
  </div>
 <br>
-<div align="center">
+<!-- <div align="center">
   <img
      height="150rem"
      src='https://github-readme-stats.vercel.app/api?username=cleytonwlsn&count_private=true'
@@ -32,7 +32,7 @@
      height="150rem"
      src='https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn&layout=compact&langs_count=16'
    />
-</div>
+</div> -->
 
 
 ⭐️ From <a href="https://github.com/cleytonwlsn">cleytonwlsn</a>
