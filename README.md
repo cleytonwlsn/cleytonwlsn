@@ -17,14 +17,14 @@
 <p align="center">----</p>
 <h3 align="center"> 🛠 Principais linguagens e tecnologias: </h3>
 <div align="center" style="display: inline_block">
-  <img align="center" alt="Cley-php" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
-  <img align="center" alt="Cley-lv" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
+  <img align="center" alt="Cley-java" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="Cley-spg" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
   <img align="center" alt="Cley-js" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Cley-html" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Cley-css" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
  </div>
 <br>
-<!-- <div align="center">
+ <div align="center">
   <img
      height="150rem"
      src='https://github-readme-stats.vercel.app/api?username=cleytonwlsn&count_private=true'
@@ -33,7 +33,7 @@
      height="150rem"
      src='https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonwlsn&layout=compact&langs_count=16'
    />
-</div> -->
+</div>
 
 
 ⭐️ From <a href="https://github.com/cleytonwlsn">cleytonwlsn</a>
